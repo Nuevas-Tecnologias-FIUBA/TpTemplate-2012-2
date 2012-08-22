@@ -1,4 +1,18 @@
-TpTemplate-2012-2
+[Nombre del proyecto]
 =================
 
-Template del repositorio para el trabajo práctico para el segundo cuatrimestre de 2012
+[Año] - [1|2]° Cuatrimestre
+
+
+[Descripción breve del proyecto.]
+
+## Integrantes del grupo
+
+- [Padrón] - [Nombre y Apellido]
+- [Padrón] - [Nombre y Apellido]
+- [Padrón] - [Nombre y Apellido]
+
+## Tecnologías
+
+- [[nombre de tecnología]](http://nuevas-tecnologias-fiuba.github.com/)
+- [Grails](http://grails.org/)
